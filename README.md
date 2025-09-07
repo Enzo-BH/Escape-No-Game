@@ -30,3 +30,6 @@ L’objectif est d’illustrer les **principaux concepts des communications num�
 ```bash
 git clone https://github.com/Enzo-BH/Escape-No-Game.git
 cd Escape-No-Game
+
+librairies nécessaires :
+pip install numpy matplotlib sounddevice soundfile scipy
