@@ -13,9 +13,5 @@ Ce projet illustre les étapes d'une transmission numérique :
 
 Cloner le repo :
 ```bash
-git clone https://github.com/ton-pseudo/mon-projet-transmission.git
+git clone https://github.com/Enzo-BH/Escape-No-Game.git
 cd Escape-No-Game
-
-Installer les dépendances :
-```bash
-pip install -r requirements.txt
