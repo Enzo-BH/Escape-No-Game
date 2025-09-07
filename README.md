@@ -26,10 +26,6 @@ L’objectif est d’illustrer les **principaux concepts des communications num�
 
 ## ⚙️ Installation
 
-### 📌 Prérequis
-- Python **3.9+**
-- `pip` installé
-
 ### 📥 Cloner le repo
 ```bash
 git clone https://github.com/Enzo-BH/Escape-No-Game.git
